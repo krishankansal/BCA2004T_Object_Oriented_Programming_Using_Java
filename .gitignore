@@ -17,3 +17,9 @@
 
 # virtual machine crash logs
 hs_err_pid*
+
+# Text files
+*.txt
+
+# executable file
+*.exe

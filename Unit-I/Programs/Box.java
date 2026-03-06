@@ -1,4 +1,3 @@
-
 class Box {
     float width;
     float height;
@@ -12,6 +11,7 @@ class Box {
     public static void main(String[] args) {
         Box x = new Box();
         Box y = new Box();
+
         x.width = 10;
         x.height = 10;
         x.depth = 10;
